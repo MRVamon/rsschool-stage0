@@ -1,7 +1,7 @@
 # Vlad Vabishchevich
 
 # Contacts
-
+* Location: Pinsk / Belarus
 * Phone: +375 25 521 98 54
 * Email: vlad.vabov@gmail.com
 * Github: MRVamon
